@@ -1,37 +1,41 @@
 ## Hi, I'm Yoona Kim! 👋
 
+<br/>
 
+> ### About me
 - 💻 I’m currently studying in Algonquin College for Mobile application design & development.  
-- 🌱 Currently working on full-stack projects. 
+- 🌱 Currently learning everything. 
 - 👯 I’m looking to collaborate with other creators. 
 - 😄 Pronouns: She/Her
-- 💬 Interests: Traveling, Photography, Netflix, Lego
-- ⚡ Fun fact: I'm a coffee lover. 
+- 💬 Interests: Traveling, Photography, Netflix, Lego, Coffee 
+- ✅ Check out my website <a href="https://yoonak.com">yoonak.com</a>
 
 <br/>
 
-### Connect with me:
+> ### Connect with me
 <p>
-  <a href="https://yoonak.com">
-    <img src="https://img.shields.io/badge/-website-089400?style=for-the-badge&logo=Microsoft-Edge&logoColor=white" />
+  <a href="mailto:isyoonakim@gmail.com">
+    <img align="left" alt="Yoona's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
-  <a href="mailto:isyoonakim@gmail.com"> 
-    <img alt="Connect via Email" src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/yoona-k/">
+    <img align="left" alt="Yoona's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/yoona-k/"> 
-    <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <a href="https://instagram.com/__yoonak/">
+    <img align="left" alt="Reeha's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
-  <a href="https://www.instagram.com/__yoonak/"> 
-    <img alt="Follow on Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.facebook.com/imyoonak/">
+    <img align="left" alt="Reeha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
-  <a href="https://www.facebook.com/imyoonak/"> 
-    <img alt="Follow on Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  <!-- <a href="https://twitter.com/__yoonak">
+    <img align="left" alt="Yoona's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  </a> -->
 </p>
 
 <br/>
+<br/>
+<br/>
 
-### Languages and Technologies
+> ### Languages and Technologies
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/-CSS3-2965f1?style=flat-square&logo=css3&logoColor=ffffff" />
