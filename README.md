@@ -26,9 +26,6 @@
   <a href="https://www.facebook.com/imyoonak/">
     <img align="left" alt="Reeha's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
-  <!-- <a href="https://twitter.com/__yoonak">
-    <img align="left" alt="Yoona's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a> -->
 </p>
 
 <br/>
